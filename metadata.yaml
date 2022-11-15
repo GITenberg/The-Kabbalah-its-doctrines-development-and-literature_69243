@@ -1,0 +1,36 @@
+_repo: The-Kabbalah-its-doctrines-development-and-literature_69243
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Ginsburg, Christian D. (Christian David)
+    aliases:
+    - Ginsburg, Christian David
+    - Ginsburg, C. D. (Christian David)
+    - גינצבורג, כריסטיאן דוד
+    - גינצבורג, דוד
+    birthdate: 1831
+    deathdate: 1914
+    gutenberg_agent_id: '55140'
+    url: http://www.gutenberg.org/2009/agents/55140
+    wikipedia: https://en.wikipedia.org/wiki/Christian_David_Ginsburg
+description: ''
+gutenberg_issued: '2022-10-26'
+identifiers:
+  gutenberg: '69243'
+language: en
+pgterms:marc904: https://archive.org/details/b29825088/page/n3
+pgterms:marc905: 20190129130744ginsburg
+pgterms:marc906: '1920'
+pgterms:marc907: GB
+production_note: Jeroen Hellingman and the Online Distributed Proofreading Team at
+  https://www.pgdp.net/ for Project Gutenberg
+publication_note: 'United Kingdom: George Routledge & Sons Limited,1920.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Cabala'
+- !lcc 'BM'
+- GITenberg
+title: 'The Kabbalah: its doctrines, development, and literature'
+url: http://www.gutenberg.org/ebooks/69243
